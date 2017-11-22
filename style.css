@@ -22,17 +22,32 @@ a {
 	margin: 20px auto;
 }
 
-#contentmargin {
-    margin-bottom: 70px;
+#contentwrapper {
+    margin-bottom: 60px;
+}
+
+#posttext {
+	margin-bottom: 10px;
+}
+
+hr {
+	width: 20%; !important;
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 1px;
 }
 
 #content {
-	width: 33.3333333%;
+	width: 30%;
 	float: left;
 }
 
 #middle {
-	width: 33.3333333%; 
+	width: 40%;
 	float: left;
     margin-bottom: 50px;
     text-align: center;
