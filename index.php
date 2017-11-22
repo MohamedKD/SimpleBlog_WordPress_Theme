@@ -1,6 +1,6 @@
 <?php
 
-
+echo 'test';
 get_header('header');
 
 wp_head();
