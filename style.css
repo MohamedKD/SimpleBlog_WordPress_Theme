@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+#mainbody { 
+  font-family: 'Open Sans', sans-serif;
+  color: #666;
+}
+
+a {
+    color:inherit;
+    text-decoration: none;
+}
+
+#blogname {
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+#pagewrap {
+	padding: 5px;
+	width: 100%;
+	margin: 20px auto;
+}
+
+#contentmargin {
+    margin-bottom: 70px;
+}
+
+#content {
+	width: 33.3333333%;
+	float: left;
+}
+
+#middle {
+	width: 33.3333333%; 
+	float: left;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#sidebar-primary {
+    text-align: center;
+
+}
+
+#aside {
+    border-right: 1px solid black;
+    margin-right: -1px;
+    text-align: center;
+
+}
+
+.sidebar {
+	text-align: center;
+
+}
+
+#sidebar {
+	text-align: center;
+	width: 33.3333333%;
+	float: left;
+}
+
+#content {
+	background: #f8f8f8;
+}
+#sidebar {
+	background: #f0efef;
+}
+header, #content, #middle, #sidebar {
+	margin-bottom: 5px;
+}
