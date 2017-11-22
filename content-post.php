@@ -19,9 +19,9 @@
 
 
 	<section id="aside">
-        <div class = "one_half" style = "border-right: 1px solid #333;">
-        <?php get_sidebar(); ?>
-        </div>
+<!--        <div class = "one_half" style = "border-right: 1px solid #333;">-->
+<!--        --><?php //get_sidebar(); ?>
+<!--        </div>-->
     </section>
 
 </div>
